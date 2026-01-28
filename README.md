@@ -28,6 +28,7 @@ AI Developer / AI Engineer with hands-on experience building and deploying LLM-p
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Gradio](https://img.shields.io/badge/Gradio-%23FF7C00.svg?style=for-the-badge&logo=gradio&logoColor=white)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-mojarrad-kiasaraei/) 
